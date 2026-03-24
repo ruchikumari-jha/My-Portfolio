@@ -70,7 +70,7 @@ function App() {
                             />
                         </h2>
                         <p className="hero-subtitle animate-fade-in-up delay-700">
-                            "I'm a Data Science professional specializing in building intelligent solutions through data analysis, machine learning, and predictive modeling."
+                            I'm a Data Science professional specializing in building intelligent solutions through data analysis, machine learning, and predictive modeling.
                         </p>
                         <div className="animate-fade-in-up delay-800">
                             <a href="#projects" className="cta-button">
