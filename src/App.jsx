@@ -103,9 +103,8 @@ function App() {
                         </p>
                     </div>
                     <div className="about-cta animate-fade-in-up delay-100">
-                        <a href="/resume.pdf" download className="cta-button resume-btn">
-                            Download Resume
-                            <Download size={20} />
+                        <a href="/Ruchi_Resume.pdf" target="_blank" rel="noopener noreferrer" className="cta-button resume-btn">
+                            View Resume
                         </a>
                     </div>
                 </section>
